@@ -3,7 +3,8 @@
 
 ---
 
-# FISA에서 진행했던 스터디 + 프로젝트
+# 스터디 +  프로젝트들
+### 특정 기술스택을 학습하기 위해 진행한 프로젝트입니다
 | 프로젝트 | 이미지 | 설명 | 기술스택 | 개발기간 |
 |----------|--------|------|----------|----------|
 | [**Woori-investment-game**](https://github.com/FISA-STUDY/Woori-investment-game?tab=readme-ov-file#-java%EB%A1%9C-%EB%AA%A8%EC%9D%98%ED%88%ACja-%EA%B2%8C%EC%9E%84-) | <img width="800" height="692" alt="image" src="https://github.com/user-attachments/assets/13bb8398-6c95-42ae-9567-28571008e9c1" /> | JAVA로 모의투JA 게임 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring&logoColor=white) | 2025.07 ~ 2025.07 |
