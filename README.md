@@ -1,6 +1,13 @@
 # Fisa Projects
 *2025-09-08 업데이트*
 
+# 주요 프로젝트
+ **우리 FIS 아카데미에서 진행한 프로젝트입니다**
+| 프로젝트 | 이미지 | 설명 | 기술스택 | 개발기간 |
+|----------|--------|------|----------|----------|
+| [**The-Better-Bank**](https://github.com/FISA-TechSeminar) | <img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/7bd49679-77db-4cd6-8506-50142c91bc43" /> | 금융권 트래픽 관리 실증 실험 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-3EAAAF?style=plastic&logo=prometheus&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-D82C20?style=plastic&logo=redis&logoColor=white) | 2025.09 ~ 2025.09 | 
+
+
 ---
 
 # 학습 내용
